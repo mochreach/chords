@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="chords_icon.svg"
+   inkscape:export-filename="C:\Users\cwwoo\code\chords\Assets\chords_icon.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +28,7 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:zoom="0.73406285"
-     inkscape:cx="392.33698"
+     inkscape:cx="391.65584"
      inkscape:cy="452.27735"
      inkscape:window-width="1536"
      inkscape:window-height="794"
@@ -76,7 +79,7 @@
          id="tspan7516"
          style="font-size:5.64444px;stroke-width:0.264583"
          x="67.588928"
-         y="108.4915">v1.0.0</tspan></text>
+         y="108.4915">v1.0.1</tspan></text>
     <rect
        style="fill:#c8c8c8;fill-opacity:1;stroke-width:0.0452291"
        id="rect15954"
